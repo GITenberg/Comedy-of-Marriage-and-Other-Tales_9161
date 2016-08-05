@@ -1,0 +1,32 @@
+_repo: Comedy-of-Marriage-and-Other-Tales_9161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- Translations into English'
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: La paix du menage -- Musotte -- The lancer's wife -- Hautot senior
+  and Hautot junior -- No quarter -- The orphan -- A lively friend -- The blind man
+  -- The impolite sex -- The cake -- The corsican bandit -- The duel.
+title: Comedy of Marriage and Other Tales
+url: http://www.gutenberg.org/ebooks/9161
