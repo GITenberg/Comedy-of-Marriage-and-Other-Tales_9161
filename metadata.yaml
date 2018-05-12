@@ -1,5 +1,8 @@
 _repo: Comedy-of-Marriage-and-Other-Tales_9161
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9161#Comedy-of-Marriage-and-Other-Tales
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
